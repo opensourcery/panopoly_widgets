@@ -26,7 +26,7 @@ function panopoly_widgets_defaultconfig_user_default_permissions() {
     'name' => 'add media from remote sources',
     'roles' => array(
       'administrator' => 'administrator',
-      'editor' => 'editor',
+      'site editor' => 'site editor',
     ),
     'module' => 'media_internet',
   );
@@ -36,7 +36,7 @@ function panopoly_widgets_defaultconfig_user_default_permissions() {
     'name' => 'create fieldable basic_file',
     'roles' => array(
       'administrator' => 'administrator',
-      'editor' => 'editor',
+      'site editor' => 'site editor',
     ),
     'module' => 'fieldable_panels_panes',
   );
@@ -46,7 +46,7 @@ function panopoly_widgets_defaultconfig_user_default_permissions() {
     'name' => 'create fieldable image',
     'roles' => array(
       'administrator' => 'administrator',
-      'editor' => 'editor',
+      'site editor' => 'site editor',
     ),
     'module' => 'fieldable_panels_panes',
   );
@@ -56,7 +56,7 @@ function panopoly_widgets_defaultconfig_user_default_permissions() {
     'name' => 'create fieldable map',
     'roles' => array(
       'administrator' => 'administrator',
-      'editor' => 'editor',
+      'site editor' => 'site editor',
     ),
     'module' => 'fieldable_panels_panes',
   );
@@ -66,7 +66,7 @@ function panopoly_widgets_defaultconfig_user_default_permissions() {
     'name' => 'create fieldable quick_links',
     'roles' => array(
       'administrator' => 'administrator',
-      'editor' => 'editor',
+      'site editor' => 'site editor',
     ),
     'module' => 'fieldable_panels_panes',
   );
@@ -76,7 +76,7 @@ function panopoly_widgets_defaultconfig_user_default_permissions() {
     'name' => 'create fieldable spotlight',
     'roles' => array(
       'administrator' => 'administrator',
-      'editor' => 'editor',
+      'site editor' => 'site editor',
     ),
     'module' => 'fieldable_panels_panes',
   );
@@ -86,7 +86,7 @@ function panopoly_widgets_defaultconfig_user_default_permissions() {
     'name' => 'create fieldable table',
     'roles' => array(
       'administrator' => 'administrator',
-      'editor' => 'editor',
+      'site editor' => 'site editor',
     ),
     'module' => 'fieldable_panels_panes',
   );
@@ -96,7 +96,7 @@ function panopoly_widgets_defaultconfig_user_default_permissions() {
     'name' => 'create fieldable text',
     'roles' => array(
       'administrator' => 'administrator',
-      'editor' => 'editor',
+      'site editor' => 'site editor',
     ),
     'module' => 'fieldable_panels_panes',
   );
@@ -106,7 +106,7 @@ function panopoly_widgets_defaultconfig_user_default_permissions() {
     'name' => 'create fieldable video',
     'roles' => array(
       'administrator' => 'administrator',
-      'editor' => 'editor',
+      'site editor' => 'site editor',
     ),
     'module' => 'fieldable_panels_panes',
   );
@@ -125,7 +125,7 @@ function panopoly_widgets_defaultconfig_user_default_permissions() {
     'name' => 'delete any audio files',
     'roles' => array(
       'administrator' => 'administrator',
-      'editor' => 'editor',
+      'site editor' => 'site editor',
     ),
     'module' => 'file_entity',
   );
@@ -135,7 +135,7 @@ function panopoly_widgets_defaultconfig_user_default_permissions() {
     'name' => 'delete any document files',
     'roles' => array(
       'administrator' => 'administrator',
-      'editor' => 'editor',
+      'site editor' => 'site editor',
     ),
     'module' => 'file_entity',
   );
@@ -145,7 +145,7 @@ function panopoly_widgets_defaultconfig_user_default_permissions() {
     'name' => 'delete any image files',
     'roles' => array(
       'administrator' => 'administrator',
-      'editor' => 'editor',
+      'site editor' => 'site editor',
     ),
     'module' => 'file_entity',
   );
@@ -155,7 +155,7 @@ function panopoly_widgets_defaultconfig_user_default_permissions() {
     'name' => 'delete any video files',
     'roles' => array(
       'administrator' => 'administrator',
-      'editor' => 'editor',
+      'site editor' => 'site editor',
     ),
     'module' => 'file_entity',
   );
@@ -166,7 +166,7 @@ function panopoly_widgets_defaultconfig_user_default_permissions() {
     'name' => 'delete fieldable basic_file',
     'roles' => array(
       'administrator' => 'administrator',
-      'editor' => 'editor',
+      'site editor' => 'site editor',
     ),
     'module' => 'fieldable_panels_panes',
   );
@@ -176,7 +176,7 @@ function panopoly_widgets_defaultconfig_user_default_permissions() {
     'name' => 'delete fieldable image',
     'roles' => array(
       'administrator' => 'administrator',
-      'editor' => 'editor',
+      'site editor' => 'site editor',
     ),
     'module' => 'fieldable_panels_panes',
   );
@@ -186,7 +186,7 @@ function panopoly_widgets_defaultconfig_user_default_permissions() {
     'name' => 'delete fieldable map',
     'roles' => array(
       'administrator' => 'administrator',
-      'editor' => 'editor',
+      'site editor' => 'site editor',
     ),
     'module' => 'fieldable_panels_panes',
   );
@@ -196,7 +196,7 @@ function panopoly_widgets_defaultconfig_user_default_permissions() {
     'name' => 'delete fieldable quick_links',
     'roles' => array(
       'administrator' => 'administrator',
-      'editor' => 'editor',
+      'site editor' => 'site editor',
     ),
     'module' => 'fieldable_panels_panes',
   );
@@ -206,7 +206,7 @@ function panopoly_widgets_defaultconfig_user_default_permissions() {
     'name' => 'delete fieldable spotlight',
     'roles' => array(
       'administrator' => 'administrator',
-      'editor' => 'editor',
+      'site editor' => 'site editor',
     ),
     'module' => 'fieldable_panels_panes',
   );
@@ -216,7 +216,7 @@ function panopoly_widgets_defaultconfig_user_default_permissions() {
     'name' => 'delete fieldable table',
     'roles' => array(
       'administrator' => 'administrator',
-      'editor' => 'editor',
+      'site editor' => 'site editor',
     ),
     'module' => 'fieldable_panels_panes',
   );
@@ -226,7 +226,7 @@ function panopoly_widgets_defaultconfig_user_default_permissions() {
     'name' => 'delete fieldable text',
     'roles' => array(
       'administrator' => 'administrator',
-      'editor' => 'editor',
+      'site editor' => 'site editor',
     ),
     'module' => 'fieldable_panels_panes',
   );
@@ -236,7 +236,7 @@ function panopoly_widgets_defaultconfig_user_default_permissions() {
     'name' => 'delete fieldable video',
     'roles' => array(
       'administrator' => 'administrator',
-      'editor' => 'editor',
+      'site editor' => 'site editor',
     ),
     'module' => 'fieldable_panels_panes',
   );
@@ -246,7 +246,7 @@ function panopoly_widgets_defaultconfig_user_default_permissions() {
     'name' => 'delete own audio files',
     'roles' => array(
       'administrator' => 'administrator',
-      'editor' => 'editor',
+      'site editor' => 'site editor',
     ),
     'module' => 'file_entity',
   );
@@ -256,7 +256,7 @@ function panopoly_widgets_defaultconfig_user_default_permissions() {
     'name' => 'delete own document files',
     'roles' => array(
       'administrator' => 'administrator',
-      'editor' => 'editor',
+      'site editor' => 'site editor',
     ),
     'module' => 'file_entity',
   );
@@ -266,7 +266,7 @@ function panopoly_widgets_defaultconfig_user_default_permissions() {
     'name' => 'delete own image files',
     'roles' => array(
       'administrator' => 'administrator',
-      'editor' => 'editor',
+      'site editor' => 'site editor',
     ),
     'module' => 'file_entity',
   );
@@ -276,7 +276,7 @@ function panopoly_widgets_defaultconfig_user_default_permissions() {
     'name' => 'delete own video files',
     'roles' => array(
       'administrator' => 'administrator',
-      'editor' => 'editor',
+      'site editor' => 'site editor',
     ),
     'module' => 'file_entity',
   );
@@ -286,7 +286,7 @@ function panopoly_widgets_defaultconfig_user_default_permissions() {
     'name' => 'download any audio files',
     'roles' => array(
       'administrator' => 'administrator',
-      'editor' => 'editor',
+      'site editor' => 'site editor',
     ),
     'module' => 'file_entity',
   );
@@ -296,7 +296,7 @@ function panopoly_widgets_defaultconfig_user_default_permissions() {
     'name' => 'download any document files',
     'roles' => array(
       'administrator' => 'administrator',
-      'editor' => 'editor',
+      'site editor' => 'site editor',
     ),
     'module' => 'file_entity',
   );
@@ -306,7 +306,7 @@ function panopoly_widgets_defaultconfig_user_default_permissions() {
     'name' => 'download any image files',
     'roles' => array(
       'administrator' => 'administrator',
-      'editor' => 'editor',
+      'site editor' => 'site editor',
     ),
     'module' => 'file_entity',
   );
@@ -316,7 +316,7 @@ function panopoly_widgets_defaultconfig_user_default_permissions() {
     'name' => 'download any video files',
     'roles' => array(
       'administrator' => 'administrator',
-      'editor' => 'editor',
+      'site editor' => 'site editor',
     ),
     'module' => 'file_entity',
   );
@@ -326,7 +326,7 @@ function panopoly_widgets_defaultconfig_user_default_permissions() {
     'name' => 'download own audio files',
     'roles' => array(
       'administrator' => 'administrator',
-      'editor' => 'editor',
+      'site editor' => 'site editor',
     ),
     'module' => 'file_entity',
   );
@@ -336,7 +336,7 @@ function panopoly_widgets_defaultconfig_user_default_permissions() {
     'name' => 'download own document files',
     'roles' => array(
       'administrator' => 'administrator',
-      'editor' => 'editor',
+      'site editor' => 'site editor',
     ),
     'module' => 'file_entity',
   );
@@ -346,7 +346,7 @@ function panopoly_widgets_defaultconfig_user_default_permissions() {
     'name' => 'download own image files',
     'roles' => array(
       'administrator' => 'administrator',
-      'editor' => 'editor',
+      'site editor' => 'site editor',
     ),
     'module' => 'file_entity',
   );
@@ -356,7 +356,7 @@ function panopoly_widgets_defaultconfig_user_default_permissions() {
     'name' => 'download own video files',
     'roles' => array(
       'administrator' => 'administrator',
-      'editor' => 'editor',
+      'site editor' => 'site editor',
     ),
     'module' => 'file_entity',
   );
@@ -366,7 +366,7 @@ function panopoly_widgets_defaultconfig_user_default_permissions() {
     'name' => 'edit any audio files',
     'roles' => array(
       'administrator' => 'administrator',
-      'editor' => 'editor',
+      'site editor' => 'site editor',
     ),
     'module' => 'file_entity',
   );
@@ -376,7 +376,7 @@ function panopoly_widgets_defaultconfig_user_default_permissions() {
     'name' => 'edit any document files',
     'roles' => array(
       'administrator' => 'administrator',
-      'editor' => 'editor',
+      'site editor' => 'site editor',
     ),
     'module' => 'file_entity',
   );
@@ -386,7 +386,7 @@ function panopoly_widgets_defaultconfig_user_default_permissions() {
     'name' => 'edit any image files',
     'roles' => array(
       'administrator' => 'administrator',
-      'editor' => 'editor',
+      'site editor' => 'site editor',
     ),
     'module' => 'file_entity',
   );
@@ -396,7 +396,7 @@ function panopoly_widgets_defaultconfig_user_default_permissions() {
     'name' => 'edit any video files',
     'roles' => array(
       'administrator' => 'administrator',
-      'editor' => 'editor',
+      'site editor' => 'site editor',
     ),
     'module' => 'file_entity',
   );
@@ -406,7 +406,7 @@ function panopoly_widgets_defaultconfig_user_default_permissions() {
     'name' => 'edit fieldable basic_file',
     'roles' => array(
       'administrator' => 'administrator',
-      'editor' => 'editor',
+      'site editor' => 'site editor',
     ),
     'module' => 'fieldable_panels_panes',
   );
@@ -416,7 +416,7 @@ function panopoly_widgets_defaultconfig_user_default_permissions() {
     'name' => 'edit fieldable image',
     'roles' => array(
       'administrator' => 'administrator',
-      'editor' => 'editor',
+      'site editor' => 'site editor',
     ),
     'module' => 'fieldable_panels_panes',
   );
@@ -426,7 +426,7 @@ function panopoly_widgets_defaultconfig_user_default_permissions() {
     'name' => 'edit fieldable map',
     'roles' => array(
       'administrator' => 'administrator',
-      'editor' => 'editor',
+      'site editor' => 'site editor',
     ),
     'module' => 'fieldable_panels_panes',
   );
@@ -436,7 +436,7 @@ function panopoly_widgets_defaultconfig_user_default_permissions() {
     'name' => 'edit fieldable quick_links',
     'roles' => array(
       'administrator' => 'administrator',
-      'editor' => 'editor',
+      'site editor' => 'site editor',
     ),
     'module' => 'fieldable_panels_panes',
   );
@@ -446,7 +446,7 @@ function panopoly_widgets_defaultconfig_user_default_permissions() {
     'name' => 'edit fieldable spotlight',
     'roles' => array(
       'administrator' => 'administrator',
-      'editor' => 'editor',
+      'site editor' => 'site editor',
     ),
     'module' => 'fieldable_panels_panes',
   );
@@ -456,7 +456,7 @@ function panopoly_widgets_defaultconfig_user_default_permissions() {
     'name' => 'edit fieldable table',
     'roles' => array(
       'administrator' => 'administrator',
-      'editor' => 'editor',
+      'site editor' => 'site editor',
     ),
     'module' => 'fieldable_panels_panes',
   );
@@ -466,7 +466,7 @@ function panopoly_widgets_defaultconfig_user_default_permissions() {
     'name' => 'edit fieldable text',
     'roles' => array(
       'administrator' => 'administrator',
-      'editor' => 'editor',
+      'site editor' => 'site editor',
     ),
     'module' => 'fieldable_panels_panes',
   );
@@ -476,7 +476,7 @@ function panopoly_widgets_defaultconfig_user_default_permissions() {
     'name' => 'edit fieldable video',
     'roles' => array(
       'administrator' => 'administrator',
-      'editor' => 'editor',
+      'site editor' => 'site editor',
     ),
     'module' => 'fieldable_panels_panes',
   );
@@ -486,7 +486,7 @@ function panopoly_widgets_defaultconfig_user_default_permissions() {
     'name' => 'edit own audio files',
     'roles' => array(
       'administrator' => 'administrator',
-      'editor' => 'editor',
+      'site editor' => 'site editor',
     ),
     'module' => 'file_entity',
   );
@@ -496,7 +496,7 @@ function panopoly_widgets_defaultconfig_user_default_permissions() {
     'name' => 'edit own document files',
     'roles' => array(
       'administrator' => 'administrator',
-      'editor' => 'editor',
+      'site editor' => 'site editor',
     ),
     'module' => 'file_entity',
   );
@@ -506,7 +506,7 @@ function panopoly_widgets_defaultconfig_user_default_permissions() {
     'name' => 'edit own image files',
     'roles' => array(
       'administrator' => 'administrator',
-      'editor' => 'editor',
+      'site editor' => 'site editor',
     ),
     'module' => 'file_entity',
   );
@@ -516,7 +516,7 @@ function panopoly_widgets_defaultconfig_user_default_permissions() {
     'name' => 'edit own video files',
     'roles' => array(
       'administrator' => 'administrator',
-      'editor' => 'editor',
+      'site editor' => 'site editor',
     ),
     'module' => 'file_entity',
   );
